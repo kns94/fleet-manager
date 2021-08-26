@@ -14,7 +14,7 @@ polling_thread = threading.Thread()
 # header to call samsara API
 headers = {
     "Accept": "application/json",
-    "Authorization": "Bearer samsara_api_cE4TxiP0FBqe8btNBkf0oFAsRleLaJ"
+    "Authorization": "Bearer TOKEN"
 }
 # params to call samsara API
 params = {"types": "gps"}
